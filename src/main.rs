@@ -1,3 +1,7 @@
+include!("character.rs");
+
+
 fn main() {
-    println!("Hello, world!");
+  println!("Starting DNB...");
+  let test: Character;
 }
